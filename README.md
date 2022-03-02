@@ -48,10 +48,10 @@ I manipulated this dataframe by creating a pivot of it then demonstrate the rela
 
 # Summary 
 
-### My recommadations to CEO based on the analysis : 
+### My recommendations to CEO based on the analysis : 
 
-1. My first recommadation would be on Urban cities. It is obvious that the company has most revenue from these cities as number of rides and drives are the highest. 
-However, profit for each driver per each ride is much less than the other type of cities. Number of rides are 67% less than number of drivers. To refrain losing drivers(decrease company revenue), the company might seek for axpanding its operation and add different type of services such as food delivery and virtual business delivery to meet with expecttaion of the drivers. Also, a pointing system for drivers performance would help increse service quality and decrease number of driver. 
-2. In both Rural and Suburban cities, number of rides are fairly more than number of drivers. Looking for new drivers to join the company while making sure it dosent exceed the number of rides, would add more profit in mentioned cities. 
-3. Lastly in Rural cities, first action from company is to add more drivers to the operation since they are the underserved ones. Also, they need to ensure that people are aware of this service. Connecting with local community leaders, schools and local media services will help increase company awareness among people who would like to be part of it or custome for it. 
+1. My first recommendation would be on Urban cities. It is obvious that the company has most revenue from these cities as number of rides and drives are the highest. 
+However, profit for each driver per each ride is much less than the other type of cities. Number of rides are 67% less than number of drivers. To refrain losing drivers(decrease company revenue), the company might seek for expanding its operation and add different type of services such as food delivery and virtual business delivery to meet with expectation of the drivers. Also, a pointing system for drivers performance would help increase service quality and decrease number of driver. 
+2. In both Rural and Suburban cities, number of rides are fairly more than number of drivers. Looking for new drivers to join the company while making sure it doesn't exceed the number of rides, would add more profit in mentioned cities. 
+3. Lastly in Rural cities, first action from company is to add more drivers to the operation and lower the cost for per ride since they are the undeserved cities. Also, they need to ensure that people are aware of this service. Connecting with local community leaders, schools and local media services will help increase company awareness among people who would like to be part of it or customer for it. 
 
