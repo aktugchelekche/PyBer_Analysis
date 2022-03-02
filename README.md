@@ -35,7 +35,9 @@ I manipulated this dataframe by creating a pivot of it then demonstrate the rela
 
 ##### By Analyzing Multi Line Chart we can conclude following results:
 
+
 <img width="974" alt="Screen Shot 2022-03-02 at 2 05 49 PM" src="https://user-images.githubusercontent.com/98676400/156440995-2b69b2f6-f5b6-45a6-b793-546aa9041731.png">
+
 
 1. By end of February, average cost ride in Urban and Suburban cities reach its maximum and beginning of April average cost ride in Rural reach its maximum during Jan-April window. 
 2. Total Fare from January to April :
@@ -44,11 +46,12 @@ I manipulated this dataframe by creating a pivot of it then demonstrate the rela
     * Suburban Cities : $900 to 1,200 (Average : $1,020)
     * Rural Cities    : $170 to $290 (Average : $ 225 ) 
 
-# Summarry 
+# Summary 
 
 ### My recommadations to CEO based on the analysis : 
 
 1. My first recommadation would be on Urban cities. It is obvious that the company has most revenue from these cities as number of rides and drives are the highest. 
-However, profit for each driver per each ride is much less than the other type of cities. To refrain losing drivers (decrease company revenue), the company might look for axpanding its operation and add different type of services such as food delivery and virtual business delivery to meet with expecttaion of the drivers.Also, a pointing system for drivers performance would help increse service quality. 
-2. 
+However, profit for each driver per each ride is much less than the other type of cities. Number of rides are 67% less than number of drivers. To refrain losing drivers(decrease company revenue), the company might seek for axpanding its operation and add different type of services such as food delivery and virtual business delivery to meet with expecttaion of the drivers. Also, a pointing system for drivers performance would help increse service quality and decrease number of driver. 
+2. In both Rural and Suburban cities, number of rides are fairly more than number of drivers. Looking for new drivers to join the company while making sure it dosent exceed the number of rides, would add more profit in mentioned cities. 
+3. Lastly in Rural cities, first action from company is to add more drivers to the operation since they are the underserved ones. Also, they need to ensure that people are aware of this service. Connecting with local community leaders, schools and local media services will help increase company awareness among people who would like to be part of it or custome for it. 
 
